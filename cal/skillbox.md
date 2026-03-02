@@ -22,4 +22,4 @@ subscribe: false
 
 > [Skillbox](https://www.skillboxes.com/) is a event aggregating platform.
 
-This page sources events from Bangalore events listed on the Skillbox website
+This page sources events from New Delhi events listed on the Skillbox website

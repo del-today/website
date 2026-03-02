@@ -20,5 +20,5 @@ subscribe: false
 
 > [AllEvents](https://allevents.in/) is a event aggregating platform.
 
-This page sources events from [Bangalore](https://allevents.in/bangalore/all)
+This page sources events from [Bangalore](https://allevents.in/new-delhi/all)
 page on the AllEvents website.

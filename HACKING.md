@@ -2,7 +2,7 @@
 
 ## Architecture
 
-This is a Jekyll-based static site generator that builds event calendars for Bangalore. The system has two main components:
+This is a Jekyll-based static site generator that builds event calendars for Delhi. The system has two main components:
 
 1. **Jekyll Static Site Generator** - Builds the website with event data from SQLite
 2. **JavaScript Calendar Renderer** - Client-side calendar display using FullCalendar

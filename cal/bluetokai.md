@@ -18,4 +18,4 @@ links:
   events across their stores and roasteries in India.
 
 This page showcases events listed at <https://bluetokaicoffee.com/pages/coffee-workshop-events>,
-filtered to just Bangalore.
+filtered to just Delhi.

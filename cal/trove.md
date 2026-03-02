@@ -16,4 +16,4 @@ links:
   adventures, stargazing, horology, wildlife art, and sailing across various
   Indian metros.
 
-Event listings are sourced from the [Trove Experiences Bangalore collection](https://troveexperiences.com/collections/bangalore) page.
+Event listings are sourced from the [Trove Experiences Bangalore collection](https://troveexperiences.com/collections/delhi) page.

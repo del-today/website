@@ -3,7 +3,7 @@ title: District
 type: aggregator
 tags: '["DISTRICT"]'
 links:
-- url: https://whatsapp.com/channel/0029VbBIuTe2Jl8LwAWPaP0e
+- url: https://www.whatsapp.com/channel/0029Vb5fR5I6rsQmoskHy10s
   icon: whatsapp
   title: District WhatsApp Channel
 - url: https://www.facebook.com/districtupdates

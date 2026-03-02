@@ -1,7 +1,6 @@
 ---
 title: Bookstores 📚
 type: collection
-tags: '["CHAMPACA", "ATTAGALATTA", "BOOKWORM"]'
+tags: '["BOOKSHOP", "", ""]'
 --- 
-Events hosted by various bookstores and bookish-spaces. Currently includes
-Champaca and Atta Galatta.
+Events hosted by various bookstores and bookish-spaces. WIP

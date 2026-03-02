@@ -6,9 +6,9 @@ links:
 - url: https://www.instagram.com/bhaagoindia/
   icon: instagram
   title: Bhaago India Instagram Profile
-- url: https://chat.whatsapp.com/DiwxDCJF2V82I30uTv5TJf
+- url: https://chat.whatsapp.com/DXD5RoQG3XKHFcUNMul1UG
   icon: whatsapp
-  title: Bhaago India WhatsApp Groups for Bangalore
+  title: Bhaago India WhatsApp Groups for Delhi
 - url: https://www.youtube.com/channel/UC6g8Njc9GY8Wa6LQWp2O4vw
   icon: youtube
   title: Bhaago India YouTube Channel
@@ -22,4 +22,4 @@ links:
   motivation, and everything else needed to nurture their passion for
   running.
 
-This page shows events listed at <https://bhaagoindia.com/events/?city=bengaluru-4>.
+This page shows events listed at <https://bhaagoindia.com/events/?city=delhi-ncr-3>.

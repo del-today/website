@@ -2,9 +2,10 @@
 title: Curated 🍉
 type: collection
 permalink: /
-tags: '["ACEOFPUBS", "ATTAGALLATA", "BIC", "BLUETOKAI", "BSF", "CARBON", "CHAMPACA", "CURATED", "COURTYARD", "CREATIVEMORNINGS", "GOETHE", "KOOTA", "MAP", "SISTERSINSWEAT/SESSION", "SOFAR", "SUMUKHA", "TOGETHER", "TROVE", "UNDERLINE", "URBANAUT", "VENN", "WINDMILLS", "TPCC", "THEWHITEBOX", "LAVONNE", "BNGBIRDS", "PAINTBAR", "CONOSH", "T.IS", "PENCILJAM"]'
+tags: '["BLUETOKAI", "BSF"]'
 # This includes all of the regular exclude tags, except for SPORTS-SCREENING
 # And additionally adds BSF/MULTIDAY
+# WIP
 excludeTags: '["BSF/MULTIDAY", "WOOWOO", "BUSINESS", "LOW-QUALITY", "NOTINBLR", "DANDIYA", "WOOWOO"]'
 ---
 
