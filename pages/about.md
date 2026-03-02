@@ -1,9 +1,9 @@
 ---
 layout: default
 permalink: /about
-title: blr.today / about
+title: dilli.today / about
 ---
-
+<!-->
 blr.today is an [open-source](/license) project by [Nemo][nemo] that curates events happening in Bangalore.
 
 **We now have a [changelog](/changelog)**
@@ -61,3 +61,5 @@ seemed like an interesting problem to solve.
 [^3]: We will let you write your own SQL Queries.
 [^4]: Unfortunately, the domain was taken by a squatter in the time it took me to get around to working on it.
 [nemo]: https://github.com/captn3m0
+
+-->

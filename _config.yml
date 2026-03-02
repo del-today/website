@@ -1,8 +1,8 @@
-title: BLR.today
+title: DEL.today
 description: >- # this means to ignore newlines until "baseurl:"
-  Semi-curated event listings for Bangalore
+  Semi-curated event listings for Delhi
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blr.today" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dilli.today" # the base hostname & protocol for your site, e.g. http://example.com
 plugins:
   - jekyll_sqlite
   - jekyll-datapage-generator
@@ -35,7 +35,7 @@ defaults:
       layout: events
       permalink: /:path/:basename/
       subscribe: true
-      excludeTags: '["BUSINESS", "LOW-QUALITY", "NOTINBLR", "DANDIYA", "WOOWOO", "SPORTS-SCREENING"]'
+      excludeTags: '["BUSINESS", "LOW-QUALITY", "NOTINDEL", "DANDIYA", "WOOWOO", "SPORTS-SCREENING"]'
       layouts:
         - layout: icalendar.ics
           permalink: /:path/:basename/cal.ics

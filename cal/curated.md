@@ -8,4 +8,4 @@ tags: '["ACEOFPUBS", "ATTAGALLATA", "BIC", "BLUETOKAI", "BSF", "CARBON", "CHAMPA
 excludeTags: '["BSF/MULTIDAY", "WOOWOO", "BUSINESS", "LOW-QUALITY", "NOTINBLR", "DANDIYA", "WOOWOO"]'
 ---
 
-> This is an open-source semi-curated event calendar for Bangalore.
+> This is an open-source semi-curated event calendar for Delhi.
