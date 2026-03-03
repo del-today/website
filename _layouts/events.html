@@ -1,12 +1,12 @@
 ---
 layout: default
-title: blr.today
+title: DEL.today
 ---
 <div style="display: flex; align-items: right;">
     <p style="margin-top:5px;text-align: left;">
         {{content | extract_element:'blockquote' | first | extract_element:'p' }}
     </p>
-    <img height=100px src="/img/apple-touch-icon.png" alt="blr.today logo" />
+    <img height=100px src="/img/apple-touch-icon.png" alt="DEL.today logo" />
 </div>
 
 
@@ -48,7 +48,7 @@ title: blr.today
     var cal = renderCalendar("{{pagePrefix}}cal.ics", tags);
 
     cal.updateSize();
-    subscribeButton('atcb', "{{site.url}}{{pagePrefix}}cal.ics", "{{page.title}} Calendar | BLR.TODAY")
+    subscribeButton('atcb', "{{site.url}}{{pagePrefix}}cal.ics", "{{page.title}} Calendar | DEL.TODAY")
 </script>
 <script src="https://cdn.jsdelivr.net/npm/qrcode/build/qrcode.min.js"></script>
 <script src="/js/accordion-screensaver.js"></script>

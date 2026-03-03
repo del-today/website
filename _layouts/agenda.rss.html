@@ -4,7 +4,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>{{ page.title }} | blr.today (What's happening tomorrow)</title>
+<title>{{ page.title }} | dilli.today (What's happening tomorrow)</title>
 <link href="{{ site.url }}{{page.url}}" rel="self"/>
 <link href="{{ site.url }}/"/>
 <updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -22,12 +22,12 @@
 
 {% if events %}
 <entry>
-<title>{{date | date:"%b %d %a"}} | blr.today (Daily)</title>
+<title>{{date | date:"%b %d %a"}} | dilli.today (Daily)</title>
 <published>{{published}}</published>
 <updated>{{published}}</updated>
 <author>
    <name>Nemo</name>
-   <email>{{page.title | slugify}}@blr.today</email>
+   <email>{{page.title | slugify}}@dilli.today</email>
  </author>
 <link href="{{ page.url }}"/>
 <id>{{site.url}}{{page.url}}@{{site.time | date:"%Y%m%d%H%m"}}</id>

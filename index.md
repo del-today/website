@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Event Calendars | blr.today"
+title: "Event Calendars | DEL.today"
 permalink: /calendars/
 ---
 {%- assign calendarPagesGrouped = site.html_pages | where: "layout", "events" |group_by: "type" -%}
