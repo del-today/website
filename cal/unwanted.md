@@ -33,7 +33,7 @@ If you find an event you think is worth curating, but in this list
 ,please let me know. Explanations for the tags:
 
 - `LOW-QUALITY`: Low Quality events
-- `NOTINBLR`: Events listed as Bangalore, but not in Bengaluru
+- `NOTINDEL`: Events listed as Delhi, but not in Delhi
 - `WOOWOO`: Pseudoscientific Events
 - `DANDIYA`: Too many Dandiya events happening these days.
 - `BUSINESS`: Business and Networking events.

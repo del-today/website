@@ -2,7 +2,7 @@
 title: Curated 🍉
 type: collection
 permalink: /
-tags: '["BLUETOKAI", "BSF"]'
+tags: '["ALLEVENTS", "HIGHAPE", "INDIARUNNING", "GULLYTOURS", "TOWNSCRIPT"]'
 # This includes all of the regular exclude tags, except for SPORTS-SCREENING
 # And additionally adds BSF/MULTIDAY
 # WIP
