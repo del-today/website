@@ -39,16 +39,9 @@ function renderCalendar(url, pageTags = []){
         x === x.toUpperCase() && x.length >=3 
       ))
 
-      // If this page only has a single tag
-      // Then we remove that tag from the list of shown tags
-      // So that the Indiranagar Page does not use that tag for eg.
       let InvisibleKeywords = new Set([
         'HIGHAPE', 'SKILLBOXES', 'INSIDER', 
         'MV EVENT', 'ALLEVENTS', 'DISTRICT']);
-
-      if (pageTags.length == 1) {
-        keywords = keywords.difference(new Set(pageTags))
-      }
 
       // Some keywords are always hidden, even if available
       keywords = keywords.difference(InvisibleKeywords)
