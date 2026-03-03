@@ -21,15 +21,15 @@ curator:
 
 venue:
   title: Venues
-  description: Event Venues within Bangalore that host events regularly.
+  description: Event Venues within Delhi that host events regularly.
 
 
 
 museum:
   title: Museums
-  description: Museums in Bangalore
+  description: Museums in Delhi
 
 neighbourhood:
   title: Neighbourhoods
-  description: Neighbourhoods in Bangalore
+  description: Neighbourhoods in Delhi
 
