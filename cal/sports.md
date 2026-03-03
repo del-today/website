@@ -2,7 +2,7 @@
 title: Sports Screenings 📺
 type: collection
 tags: '["SPORTS-SCREENING"]'
-excludeTags: '["BUSINESS", "LOW-QUALITY", "NOTINBLR", "DANDIYA", "WOOWOO"]'
+excludeTags: '["BUSINESS", "LOW-QUALITY", "NOTINDEL", "DANDIYA", "WOOWOO"]'
 --- 
 # WIP
 WIP
