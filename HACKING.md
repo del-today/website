@@ -49,8 +49,8 @@ Events follow schema.org/Event format with:
 ## Setup
 
 ```bash
-git clone https://github.com/blr-today/website.git blr-today-website
-cd blr-today-website
+git clone https://github.com/del-today/website.git del-today-website
+cd del-today-website
 bundle install
 npm install
 npm run fetch-calendar

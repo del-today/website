@@ -2,9 +2,7 @@
 
 ## Reporting a Vulnerability
 
-Please send any reports to <security@blr.today>. If you need to
-talk over encrypted comms, please see https://captnemo.in/contact/ for
-Signal details.
+Please send any reports to <hello@ansharora.in>. 
 
 ## Threat Model
 
