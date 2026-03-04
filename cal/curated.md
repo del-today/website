@@ -2,7 +2,7 @@
 title: Curated 🍉
 type: collection
 permalink: /
-tags: '["INDIARUNNING", "TOWNSCRIPT", "IHC", "FILLUM", "GOETHE"]'
+tags: '["INDIARUNNING", "TOWNSCRIPT", "IHC", "IIC", "FILLUM", "GOETHE", "KHOJ", "KNMA"]'
 # This includes all of the regular exclude tags, except for SPORTS-SCREENING
 # And additionally adds BSF/MULTIDAY
 # WIP
